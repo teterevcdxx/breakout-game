@@ -18,6 +18,7 @@ h1{
   color: #fff;
   font-size: 39px;
   letter-spacing: 7px;
+  user-select: none;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 15px rgb(255, 123, 0), 0 0 25px #FF9900, 0 0 35px #FF9900, 0 0 45px #FF9900, 0 0 55px #FF9900;
 }
 .menu{
@@ -35,6 +36,7 @@ h1{
   border: 1px solid #fff;
   border-radius: 5px;
   letter-spacing: 5px;
+  user-select: none;
 }
 canvas{
   border: 1px solid #fff;
@@ -65,6 +67,7 @@ canvas{
   font-size: 24px;
   user-select: none;
   cursor: pointer;
+  user-select: none;
 }
 .startbtn{
   position: absolute;
@@ -78,6 +81,7 @@ canvas{
   border: 1px solid #fff;
   border-radius: 5px;
   letter-spacing: 5px;
+  user-select: none;
 }
 h3{
   color: white;
@@ -88,6 +92,7 @@ h3{
   letter-spacing: 25px;
   width: 282px;
   text-align: center;
+  user-select: none;
 }
 h4{
   color: rgba(255, 255, 255, 0.144);
@@ -98,6 +103,7 @@ h4{
   text-align: center;
   margin: 0;
   padding: 0;
+  user-select: none;
 }
 h2{
   color: white;
