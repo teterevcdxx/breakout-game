@@ -159,7 +159,7 @@ gameInit(){
                 lives--;
                 liveShow.innerHTML =livesCompare(); //sorry for this shit-method
                 if(!lives) {
-                alert('pizda');
+                alert('naigralsya');
                 document.location.reload();
                 }
                 else {
