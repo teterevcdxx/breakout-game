@@ -5,12 +5,11 @@
 
 ## Features: 
 
-### - "Neon" styling;
-### - Leaderboard
 ### - Playable both on PC and Mobile devices
 
 ## Exxxtra things (May not be implemented)
 
+### - Leaderboard 
 ### - Infinite gameplay
 ### - Enhancement blocks
 ### - Parallax background
