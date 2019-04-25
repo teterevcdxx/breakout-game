@@ -12,4 +12,4 @@
 ### - Leaderboard 
 ### - Infinite gameplay
 ### - Enhancement blocks
-### - Parallax background
+### - Cute Parallax background
